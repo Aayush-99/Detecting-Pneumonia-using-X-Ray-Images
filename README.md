@@ -2,5 +2,5 @@
 
 The aim of this project is to identify whether a patient is is suffering from pneumonia or not by looking at chest X-ray images.
 
-![NORMAL](NORMAL_sample.jpeg)
-![PNEUMONIA](PNEUMONIA_sample.jpeg)
+![NORMAL](https://github.com/Aayush-99/Detecting-Pneumonia-using-X-Ray-Images/blob/master/NORMAL_sample.jpeg = 320x320)
+![PNEUMONIA](https://github.com/Aayush-99/Detecting-Pneumonia-using-X-Ray-Images/blob/master/PNEUMONIA_sample.jpeg = 320x320)
